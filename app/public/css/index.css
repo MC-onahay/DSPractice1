@@ -1,0 +1,35 @@
+<style>
+
+  img {
+  height: 300px;
+  width: 300px;
+  border-radius: 10%;
+  border-style: ridge;
+}
+
+  nav{
+    background-color: darkseagreen;
+  }
+
+
+  a{
+  color: blue;
+  font: bold;
+  }
+  
+
+  body{
+  background-color: darkseagreen;
+  }
+
+  h1{
+  font: cursive;
+  padding: 50px;
+  }
+
+
+.description{
+background-color: darkseagreen;
+padding: 20px;
+}
+  </style>
